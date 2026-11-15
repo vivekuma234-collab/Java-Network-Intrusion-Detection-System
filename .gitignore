@@ -1,0 +1,6 @@
+target/
+MiniNIDS/
+*.db
+*.class
+.idea/
+*.iml
